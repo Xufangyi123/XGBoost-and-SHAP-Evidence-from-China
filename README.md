@@ -7,7 +7,7 @@ The measurement and early warning of daily financial stability index based on XG
 ## Introduction
 
 ## Method
-
+![图片名称](https://img2.baidu.com/it/u=3913729461,3658245748&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500)  
 ## cite
 Benyan Tan, Ziqi Gan, Yan Wu,  
 The measurement and early warning of daily financial stability index based on XGBoost and SHAP: Evidence from China,  
