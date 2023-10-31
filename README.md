@@ -7,7 +7,6 @@ The measurement and early warning of daily financial stability index based on XG
 ## Introduction
 
 ## Method
-![系统框架图]([https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTVkXRo4_SAvJD8ai8kJNdsopSjSe7iXOmEAGYAwkew04XmUDS))  
 
 ## cite
 Benyan Tan, Ziqi Gan, Yan Wu,  
