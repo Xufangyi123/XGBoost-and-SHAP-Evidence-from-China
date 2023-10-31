@@ -13,9 +13,7 @@ The measurement and early warning of daily financial stability index based on XG
 Benyan Tan, Ziqi Gan, Yan Wu,  
 The measurement and early warning of daily financial stability index based on XGBoost and SHAP: Evidence from China,  
 Expert Systems with Applications,  
-Volume 227,  
-2023,  
-120375,  
+Volume 227, 2023, 120375,  
 ISSN 0957-4174,  
 https://doi.org/10.1016/j.eswa.2023.120375.  
 (https://www.sciencedirect.com/science/article/pii/S0957417423008771)  
