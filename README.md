@@ -10,7 +10,10 @@ The measurement and early warning of daily financial stability index based on XG
 
 ## figure 
 
-![figure1](https://github.com/Xufangyi123/12/blob/main/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81/1-s2.0-S0957417423008771-gr1.jpg?raw=true)  
+![Fig. 1. Visual representation of empirical strategy](https://github.com/Xufangyi123/12/blob/main/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81/1-s2.0-S0957417423008771-gr1.jpg?raw=true)  
+![Fig. 2. Trend of ICFS and warning range](https://github.com/Xufangyi123/12/blob/main/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81/1-s2.0-S0957417423008771-gr2.jpg?raw=true)  
+![Fig. 3. Probabilistic diagram of the Markov regime switching model(https://github.com/Xufangyi123/12/blob/main/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81/1-s2.0-S0957417423008771-gr3.jpg?raw=true)  
+
 
 ## cite
 Benyan Tan, Ziqi Gan, Yan Wu,  
