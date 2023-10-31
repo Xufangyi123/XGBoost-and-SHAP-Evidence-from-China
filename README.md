@@ -1,7 +1,7 @@
-[Address of the paper]([https://www.baidu.com/](https://www.sciencedirect.com/science/article/pii/S0957417423008771)https://www.sciencedirect.com/science/article/pii/S0957417423008771)   
+[Address of the paper](https://www.sciencedirect.com/science/article/pii/S0957417423008771)   
 
 
-#cite
+# cite
 Benyan Tan, Ziqi Gan, Yan Wu,
 The measurement and early warning of daily financial stability index based on XGBoost and SHAP: Evidence from China,
 Expert Systems with Applications,
