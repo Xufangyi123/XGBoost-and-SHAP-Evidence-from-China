@@ -18,7 +18,7 @@ The measurement and early warning of daily financial stability index based on XG
 ![Fig. 6. SHAP value mapping plots for the top 8 important features based on the XGBoost model](https://github.com/Xufangyi123/12/blob/main/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81/1-s2.0-S0957417423008771-gr6.jpg?raw=true)
 ![Fig. 7. SHAP force plots of one single sample (low, medium and high risk are shown from top to bottom)](https://github.com/Xufangyi123/12/blob/main/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81/1-s2.0-S0957417423008771-gr7.jpg?raw=true)
 ![Fig. 8. Partial dependency plots of the first 8 important features based on the XGBoost model](https://github.com/Xufangyi123/12/blob/main/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81/1-s2.0-S0957417423008771-gr8.jpg?raw=true)
-
+![Fig. 9. Prediction probability plots based on single sample by LIME](https://github.com/Xufangyi123/12/blob/main/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BB%A3%E7%A0%81/1-s2.0-S0957417423008771-gr9.jpg?raw=true)
 
 
 ## cite
